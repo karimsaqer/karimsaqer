@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @karimsaqer
+<h1 align="center">Hi 👋, I'm Karim Saqer</h1>
+- 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 - 👀 I’m interested in Front End (Vue Js)
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me **Karim.Saqer01@eng-st.cu.edu.eg**
